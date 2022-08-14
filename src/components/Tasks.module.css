@@ -1,0 +1,65 @@
+.container{
+  width: 50%;
+  align-items: center;
+    margin-left: calc(50% - 736px / 2);
+    display: flex;
+  flex-direction: column;
+  }
+  
+  .navTask {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navTask div{
+  margin-top: 80px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.navTask h1 {
+  color: var(--blue);
+  font-size: 16px;
+}
+
+.navTask span{
+  background-color: var(--gray-300);
+    color: var(--gray-100);
+    font-size: 12px;
+    /* border: 1px solid var(--blue-dark); */
+    border-radius: 70%;
+    padding: 2px 6px;
+}
+
+.divider{
+  margin: 12px 0;
+  width: 95%;
+  border: 1px solid var(--gray-300);
+}
+
+.empty {
+  display: flex;
+  margin-top: 80px;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.empty svg{
+  margin-bottom: 16px;
+}
+
+.empty h1{
+  color: var(--gray-300);
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.empty h1 + h1{
+  font-size: 16px;
+    font-weight: normal;
+}
