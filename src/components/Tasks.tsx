@@ -31,7 +31,7 @@ export const Tasks = () => {
           name=""
           value=""
         />
-        <label htmlFor="newTask"> Comprar geladeira </label>
+        <label htmlFor="newTask"> Comprar geladeiras </label>
         <Trash size={20}/>
       </div>
     </div>
