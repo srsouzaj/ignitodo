@@ -16,6 +16,12 @@ Para conclusão de módulo, a fim consolidar ainda mais meus conhecimentos sendo
 - [Typescript](https://www.typescriptlang.org/)
 - [ReactJS](https://pt-br.reactjs.org/)
 
+## **🔖** Layout
+
+Você pode visualizar o layout do projeto através do link abaixo:
+
+- [Figma](https://www.figma.com/file/0n0zDN7zbzhRbaEO74Xesx/ToDo-List)
+
 ## **🚀** Como Executar
 
 Antes de baixar o projeto você vai precisar ter instalado na sua máquina as seguintes ferramentas:
