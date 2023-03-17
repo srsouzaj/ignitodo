@@ -4,7 +4,7 @@
 
 ## **💻** Projeto
 
-Para conclusão de módulo, a fim consolidar ainda mais meus conhecimentos sendo alinhado com as novas e melhores práticas e tecnologias disponíveis no mundo da tecnologia, realizei durante o programa de aceleração “Ignite - ReactJS”, promovido pela Rocketseat, uma aplicação Frontend chamado “Ignite Todo”, onde podemos treinar minhas habilidades com ReactJS, utilizando Hooks, componentes, propriedades, Imutabilidades, etc. Além disso, para estilizando foi utilizado CSS Modules.
+Como desafio para conclusão de curso, a fim consolidar ainda mais meus conhecimentos sendo alinhado com as novas e melhores práticas e tecnologias disponíveis no mundo da tecnologia, realizei durante o programa de aceleração “Ignite - ReactJS”, promovido pela Rocketseat, uma aplicação Frontend chamado “Ignite Todo”, onde podemos treinar minhas habilidades com ReactJS, utilizando Hooks, componentes, propriedades, Imutabilidades, etc. Além disso, para estilizando foi utilizado CSS Modules.
 
 <p align="center">
   <img alt="backrgound" src=".github/background.png" />
